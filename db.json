@@ -1,0 +1,58 @@
+{
+    "categorias": [
+        {
+            "id":1,
+            "titulo":"Comédia",
+            "filmes":[
+              {
+                "id":1, "titulo":"Esposa de Mentirinha", "imagem":"https://is1-ssl.mzstatic.com/image/thumb/4OXbCPniqnXwU2XbFJkn7w/1200x630.jpg"
+              },
+              {
+                "id":2, "titulo":"Todo Mundo em Pânico", "imagem":"https://gosat.tv.br/wp-content/uploads/2020/03/comedia-1-1024x576.jpg"
+              },
+              {
+                "id":3, "titulo":"As Branquelas", "imagem":"https://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/97/52/82/20534159.jpg"
+              },
+              {
+                "id":4, "titulo":"Garota Veneno", "imagem":"https://s.glbimg.com/og/rg/f/original/2011/09/27/rachel.jpg"
+              },
+              {
+                "id":5, "titulo":"Minha Mãe é uma Peça", "imagem":"https://limaomecanico.com.br/wp-content/uploads/2019/09/Minha-M%C3%A3e-%C3%A9-uma-Pe%C3%A7a.jpg"
+              },
+              {
+                "id":6, "titulo":"O Pequenino", "imagem":"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbisEaJtU7-GsdA9x1d6ywrxtYcT8Odto0UsD80nGcFP9up1Muj1Hc4-WrsAQD5VZNazNb3Gb8fO-uWxV3FvwXld-9w.jpg?r=9c6"
+              },
+              {
+                "id":7, "titulo":"Família do Bagulho", "imagem":"https://cdn-images.rtp.pt/EPG/imagens/32443_38460_10784.jpg?amp;w=270"
+              }
+            ]
+        },
+        {
+            "id":2,
+            "titulo":"Drama",
+            "filmes":[
+              {
+                "id":1, "titulo":"A História de um Casamento", "imagem":"encurtador.com.br/iowCL"
+              },
+              {
+                "id":2, "titulo":"As Horas", "imagem":"encurtador.com.br/grHP6"
+              },
+              {
+                "id":3, "titulo":"À Procura da Felicidade", "imagem":"encurtador.com.br/uACOX"
+              },
+              {
+                "id":4, "titulo":"Coringa", "imagem":"encurtador.com.br/gluDE"
+              },
+              {
+                "id":5, "titulo":"O Menino do Pijama Listrado", "imagem":"encurtador.com.br/nAKNO"
+              },
+              {
+                "id":6, "titulo":"Nasce uma Estrela", "imagem":"encurtador.com.br/bdHI4"
+              },
+              {
+                "id":7, "titulo":"A Menina que Roubava Livros", "imagem":"encurtador.com.br/gnKO1"
+              }
+            ]
+          }
+    ]
+}
